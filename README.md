@@ -1,4 +1,4 @@
-# labs4semestrOOP\
+# labs4semestrOOP
 Лабораторная работа 1, 
 Стратегия(Strategy.py)
 Состояние(State.py)
