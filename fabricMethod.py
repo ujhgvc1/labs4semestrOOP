@@ -16,7 +16,7 @@ class SecantMethod(OptimizationMethod):
 class SolverFactory:
     @staticmethod
     def get_solver(method_type: str) -> OptimizationMethod:
-        """Логика создания объектов спрятана здесь"""
+        """Логика создания объектов здесь"""
         solvers = {
             "newton": NewtonMethod,
             "secant": SecantMethod
